@@ -1,0 +1,7 @@
+{
+  "name": "LocalMind",
+  "description": "An AI-powered local discovery platform that helps users experience a city like a local using Gemini-style reasoning and personalization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
