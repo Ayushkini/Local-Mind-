@@ -1,0 +1,18 @@
+# Suggested additions only — merge these into the existing .gitignore after review.
+# Do not blindly replace an existing .gitignore.
+
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+coverage/
+dist/
+build/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
